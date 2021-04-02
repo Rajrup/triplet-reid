@@ -9,7 +9,7 @@
     "experiment_root": "/home/rajrup/Dropbox/Project/D2/triplet-reid",
     "flip_augment": true,
     "head_name": "fc1024",
-    "image_root": "/data/rajrup/Project/D2/Datasets/Market-1501",
+    "image_root": "./data",
     "initial_checkpoint": "<path_to_pretrained_checkpoint>/resnet_v1_50.ckpt",
     "learning_rate": 0.0003,
     "loading_threads": 8,
